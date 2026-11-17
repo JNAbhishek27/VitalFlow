@@ -1,0 +1,6 @@
+{
+  "name": "VITALFLOW",
+  "description": "An interactive ambient digital garden powered by real-time human sensing via the Presage SmartSpectra SDK.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
